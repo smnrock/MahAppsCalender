@@ -1,1 +1,3 @@
 # MahAppsCalender
+
+![Screenshot](mahappscalendar.png)
